@@ -1,3 +1,3 @@
 
-    first exercise in C
-    version: DONE
+    first exercise in C 
+
